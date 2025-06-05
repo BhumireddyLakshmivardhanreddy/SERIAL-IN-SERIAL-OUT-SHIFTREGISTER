@@ -1,10 +1,10 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
-**AIM:**
+# Implementation of SISO register using Verilog HDL
+**AIM**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+**SOFTWARE REQUIRED**
 
 Quartus prime
 
